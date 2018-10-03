@@ -5,7 +5,6 @@ import java.util.Scanner;
 /**
  *date 10/3/2018
  * time 12:15 AM
- * duration of programming +- 2:30 hours
  * @author Rb wahid
  */
 public class maximumOrMinimumNumberCheck {
